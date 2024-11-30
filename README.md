@@ -14,3 +14,14 @@ A simple web-based currency converter that allows users to convert between diffe
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/sameenirfan/currency-converter.git
+
+# Usage 🖥️
+- Enter the amount in the first input field.
+- Select the currencies you want to convert from and to using the dropdown menus.
+- Click the "Convert" button to view the converted amount in real-time.
+# Example 🌏
+- Convert 50 MYR to INR:
+- Input amount: 50
+- From currency: MYR
+- To currency: INR
+- Output: Result displayed in the converted field.
