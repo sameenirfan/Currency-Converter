@@ -13,4 +13,4 @@ A simple web-based currency converter that allows users to convert between diffe
 ## Installation 📥
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/sameenirfan/currency-converter.git
