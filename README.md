@@ -5,7 +5,7 @@ Convert amounts between multiple currencies (e.g., USD to INR, MYR to INR, etc.)
 Real-time exchange rates fetched from the API.
 Easy-to-use interface with dropdowns for currency selection.
 Handles errors gracefully with user-friendly messages.
-Technologies Used 🛠️
+# Technologies Used 🛠️
 HTML: For the structure of the webpage.
 CSS: For styling and layout.
 JavaScript: For dynamic functionality and API integration.
