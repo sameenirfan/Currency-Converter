@@ -10,3 +10,7 @@ A simple web-based currency converter that allows users to convert between diffe
 - CSS: For styling and layout.
 - JavaScript: For dynamic functionality and API integration.
 - ExchangeRate-API: To fetch live currency rates.
+## Installation 📥
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/currency-converter.git
