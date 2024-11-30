@@ -25,3 +25,18 @@ A simple web-based currency converter that allows users to convert between diffe
 - From currency: MYR
 - To currency: INR
 - Output: Result displayed in the converted field.
+# Future Improvements 📈
+- Add more currency options.
+- Include a history of conversions.
+- Implement offline mode using service workers.
+- Add dark mode for better user experience.
+# License 📜
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Contributions 🤝
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+# Contact 📧
+For questions or suggestions, please contact:
+Your Name - sameenirfn@gmail.com
+GitHub: @sameenirfan
